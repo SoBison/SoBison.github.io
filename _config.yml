@@ -1,7 +1,7 @@
 # Site settings
-title: 安义县冰之依贸易有限公司官网
+title: Artpics
 email:
-description: 我们是一家科技与贸易并存的公司,把科技和贸易紧密联系起来,完成一个紧密的闭环,利用科技的手段提升我们贸易的产值,贸易促进我们科技的发展
+description: ArtPics是一款AI智能图片处理App，能一键制作出各种风格化的图片效果，并对它进行微调
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://sobison.github.io" # the base hostname & protocol for your site
