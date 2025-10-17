@@ -11,7 +11,7 @@ class Komiic extends ComicSource {
     minAppVersion = "1.0.0"
 
     // 更新链接
-    url = "https://bzy168.top/comic/manyue-configs/komiic.js"
+    url = "https://sobison.github.io/manyue-configs/komiic.js"
 
     get headers() {
         let token = this.loadData('token')

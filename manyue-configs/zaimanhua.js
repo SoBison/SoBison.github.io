@@ -5,7 +5,7 @@ class Zaimanhua extends ComicSource {
   version = "1.0.1";
   minAppVersion = "1.0.0";
   url =
-    "https://bzy168.top/comic/manyue-configs/zaimanhua.js";
+    "https://sobison.github.io/manyue-configs/zaimanhua.js";
 
   // 初始化请求头
   init() {

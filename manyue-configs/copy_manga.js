@@ -8,7 +8,7 @@ class CopyManga extends ComicSource {
 
     minAppVersion = "1.2.1"
 
-    url = "https://bzy168.top/comic/manyue-configs/copy_manga.js"
+    url = "https://sobison.github.io/manyue-configs/copy_manga.js"
 
     get headers() {
         let token = this.loadData("token");

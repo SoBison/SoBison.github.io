@@ -7,7 +7,7 @@ class Picacg extends ComicSource {
 
     minAppVersion = "1.0.0"
 
-    url = "https://bzy168.top/comic/manyue-configs/picacg.js"
+    url = "https://sobison.github.io/manyue-configs/picacg.js"
 
     static defaultApiUrl = "https://picaapi.picacomic.com"
 

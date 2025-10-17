@@ -12,7 +12,7 @@ class Ehentai extends ComicSource {
     minAppVersion = "1.5.3"
 
     // update url
-    url = "https://bzy168.top/comic/manyue-configs/ehentai.js"
+    url = "https://sobison.github.io/manyue-configs/ehentai.js"
 
     /**
      * cached api key

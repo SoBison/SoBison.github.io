@@ -4,7 +4,7 @@ class Comick extends ComicSource {
     version = "1.1.1"
     minAppVersion = "1.4.0"
     // update url
-    url = "https://bzy168.top/comic/manyue-configs/comick.js"
+    url = "https://sobison.github.io/manyue-configs/comick.js"
 
     settings = {
         domains: {

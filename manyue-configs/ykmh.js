@@ -4,7 +4,7 @@ class YKMHSource extends ComicSource {
     key = "ykmh"
     version = "1.0.0"
     minAppVersion = "1.4.0"
-    url = "https://bzy168.top/comic/manyue-configs/ykmh.js"
+    url = "https://sobison.github.io/manyue-configs/ykmh.js"
 
     get baseUrl() {
         return "https://www.ykmh.net";

@@ -16,7 +16,7 @@ class JM extends ComicSource {
     static jmPkgName = "com.example.app"
 
     // update url
-    url = "https://bzy168.top/comic/manyue-configs/jm.js"
+    url = "https://sobison.github.io/manyue-configs/jm.js"
 
     static fallbackServers = [
         "www.cdntwice.org",

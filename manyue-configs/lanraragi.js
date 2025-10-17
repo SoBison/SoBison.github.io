@@ -4,7 +4,7 @@ class Lanraragi extends ComicSource {
     key = "lanraragi"
     version = "1.1.0"
     minAppVersion = "1.4.0"
-    url = "https://bzy168.top/comic/manyue-configs/lanraragi.js"
+    url = "https://sobison.github.io/manyue-configs/lanraragi.js"
 
     settings = {
         api: { title: "API", type: "input", default: "http://lrr.tvc-16.science" },

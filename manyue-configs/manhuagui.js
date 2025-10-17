@@ -8,7 +8,7 @@ class ManHuaGui extends ComicSource {
 
   minAppVersion = "1.4.0";
 
-  url = "https://bzy168.top/comic/manyue-configs/manhuagui.js";
+  url = "https://sobison.github.io/manyue-configs/manhuagui.js";
 
   baseUrl = "https://www.manhuagui.com";
 

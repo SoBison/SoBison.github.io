@@ -13,7 +13,7 @@ class Baihehui extends ComicSource {
     minAppVersion = "1.4.0"
 
     // update url
-    url = "https://bzy168.top/comic/manyue-configs/baihehui.js"
+    url = "https://sobison.github.io/manyue-configs/baihehui.js"
 
     settings = {
         domains: {

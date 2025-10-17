@@ -13,7 +13,7 @@ class ManWaBa extends ComicSource {
   minAppVersion = "1.4.0";
 
   // update url
-  url = "https://bzy168.top/comic/manyue-configs/manwaba.js";
+  url = "https://sobison.github.io/manyue-configs/manwaba.js";
 
   api = "https://www.manwaba.com/api/v1";
 

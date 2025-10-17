@@ -4,7 +4,7 @@ class ShonenJumpPlus extends ComicSource {
   version = "1.1.1";
   minAppVersion = "1.2.1";
   url =
-    "https://bzy168.top/comic/manyue-configs/shonen_jump_plus.js";
+    "https://sobison.github.io/manyue-configs/shonen_jump_plus.js";
 
   deviceId = this.generateDeviceId();
   bearerToken = null;
